@@ -47,3 +47,5 @@ python test_app_smoke.py    # app.py выполняется целиком (Stre
 python prepare_app_data.py real_estate_data_csv.zip test_real_estate_samples.csv MachineLearning_fixed.ipynb
 ```
 Скрипт повторяет очистку и разбиение из ноутбука (метрики совпадают с отчётом) и пересоздаёт `app_data/`.
+
+Работа Гумерова А. А. и Руднева И. С.
